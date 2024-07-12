@@ -1,0 +1,51 @@
+.App {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #1e1e1e;
+    color: #fff;
+  }
+  
+  .black-scholes {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    background-color: #282828;
+    border-radius: 8px;
+  }
+  
+  .inputs label {
+    display: block;
+    margin: 10px 0;
+  }
+  
+  .inputs input {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+  }
+  
+  .results {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+  }
+  
+  .call-value, .put-value {
+    background-color: #333;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+  }
+  
+  .call-value {
+    background-color: #4CAF50;
+  }
+  
+  .put-value {
+    background-color: #f44336;
+  }
+  
+  .heatmap {
+    margin-top: 30px;
+  }
+  
