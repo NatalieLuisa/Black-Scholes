@@ -1,4 +1,12 @@
 # Black-Scholes
+This web application calculates the prices of Call and Put options using the Black-Scholes model. It also provides interactive heatmaps to visualize how the option prices change with varying spot prices and volatilities.
+
+## Features
+
+- Calculate Call and Put option prices based on user inputs
+- Interactive heatmaps to visualize option prices
+- Responsive design for different screen sizes
+Usage
 Open the web application in your browser.
 Enter the required inputs for the Black-Scholes model:
 Current Asset Price
@@ -21,3 +29,5 @@ Technologies Used
 React
 Plotly.js for interactive heatmaps
 CSS for styling
+HTML
+js
